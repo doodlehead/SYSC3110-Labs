@@ -1,0 +1,9 @@
+SYSC3110 Lab for Frank Yu 101076416
+
+1. Debug, Java Browsing, Git, Java, Java Type Hierarchy, Planning Resource, Team Synchronizing, XML
+
+2. Package explorer, Task List, Outline, Problems, Javadoc, Declaration
+
+3. There are files that are the default java libraries
+
+4. BuddyInfo included in .zip
